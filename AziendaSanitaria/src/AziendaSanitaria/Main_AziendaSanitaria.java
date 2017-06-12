@@ -14,6 +14,7 @@ public class Main_AziendaSanitaria {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        //commento di prova
          AziendaSanitaria a=new AziendaSanitaria();
          Scanner sc=new Scanner(System.in);
         int scelta=-1;
